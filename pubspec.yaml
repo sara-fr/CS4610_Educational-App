@@ -29,6 +29,7 @@ dependencies:
   firebase_database: ^4.3.0
   firebase_storage: ^5.1.0
   firebase_image: ^0.3.0
+  flutter_launcher_icons: ^0.8.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -40,7 +41,10 @@ dev_dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
-
+flutter_icons:
+  android: "flutter_launcher_icon"
+  ios: true
+  image_path: "assets/flutter_launcher_icon.png"
 # The following section is specific to Flutter.
 flutter:
 
