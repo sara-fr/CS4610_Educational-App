@@ -2,7 +2,7 @@
     package="edu.cpp.cs4610.learninglessons">
    <application
         android:label="learninglessons"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/flutter_launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
