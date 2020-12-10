@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971141864355",
+    "firebase_url": "https://e-learning-76f33.firebaseio.com",
+    "project_id": "e-learning-76f33",
+    "storage_bucket": "e-learning-76f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971141864355:android:267949612dad47d945d816",
+        "android_client_info": {
+          "package_name": "edu.cpp.cs4610.learninglessons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971141864355-l1ms98brcbcb1s1hcicocmfqjeig261k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVFJaN4j8-fhxAckJxLILIuOqCVF0lYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971141864355-l1ms98brcbcb1s1hcicocmfqjeig261k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
